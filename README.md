@@ -102,11 +102,16 @@
 <br clear="both">
 
 <div align="center">
+  <!-- SVG Snake with Dark/Light Mode Support -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3More1/3More1/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3More1/3More1/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/3More1/3More1/output/github-contribution-grid-snake.svg" />
   </picture>
+  
+  <br/>
+  <!-- Colorful Ocean GIF Version -->
+  <img alt="github-snake-gif" src="https://raw.githubusercontent.com/3More1/3More1/output/ocean.gif" />
 </div>
 
 ###
