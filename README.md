@@ -1,196 +1,179 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A82FB,100:FC5C7D&height=200&section=header&text=Data%20Scientist%20%26%20Analyst&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Transforming%20Data%20into%20Strategic%20Insights&descAlignY=50" width="100%"/>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20👋,%20I'm%203More1;Data%20Scientist%20from%20Egypt%20🇪🇬;Data%20Visualization%20Expert;Machine%20Learning%20Specialist&center=true&size=30&color=6A82FB">
+</h1>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,100:20BDFF&height=200&section=header&text=3More1&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data Scientist | Analyst | Visualization Expert&descAlignY=50" />
+  <a href="https://www.linkedin.com/in/3more1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:contact.3more1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/3more1">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://github.com/3More1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Transforming+Data+into+Insights;Statistical+Analysis+Expert;Machine+Learning+Enthusiast;Business+Intelligence+Professional&center=true&size=22&width=500&height=50&color=20BDFF">
-</p>
-
 <div align="center">
-  <p>
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/></a>
-    <a href="https://github.com/3More1"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="25"/></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="25"/></a>
-    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=FF7139" alt="Portfolio" height="25"/></a>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=3More1&style=for-the-badge&color=FC5C7D" alt="profile views"/>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=3More1&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+## 💼 About Me
 
-## 💫 About Me
+<img align="right" height="270" width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Data Science Animation"/>
 
-<img align="right" height="180" width="220" alt="Data Analysis" src="https://media.tenor.com/dpNNNGcG0B0AAAAi/sung-jin-woo-solo-leveling.gif"/>
-
-```javascript
-const ThreeMore1 = {
-  title: "Data Scientist & Analyst",
-  location: "Egypt 🇪🇬",
-  expertise: ["Data Visualization", "Statistical Analysis", "Machine Learning"],
-  currentFocus: ["Predictive Analytics", "Data Mining", "Business Intelligence"],
-  skills: ["Python", "R", "SQL", "Tableau", "Power BI", "Pandas", "NumPy", "TensorFlow"],
-  motto: "Turning complex data into actionable insights"
-};
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "3More1"
+        self.location = "Egypt 🇪🇬"
+        self.skills = {
+            "analysis": ["Statistical Analysis", "Data Mining", "Predictive Modeling"],
+            "visualization": ["Tableau", "Power BI", "Matplotlib", "Seaborn"],
+            "machine_learning": ["Regression", "Classification", "Clustering", "NLP"]
+        }
+        
+    def daily_routine(self):
+        return [
+            "Extract meaningful patterns from complex datasets",
+            "Build machine learning models with real-world applications",
+            "Create interactive dashboards for business stakeholders",
+            "Turn raw data into actionable business intelligence"
+        ]
 ```
 
-I'm a Data Scientist and Analyst specializing in transforming complex datasets into strategic insights. With expertise in statistical modeling and machine learning, I help organizations make data-driven decisions that drive business value. My approach combines technical analysis with clear visualization to make data accessible and actionable for all stakeholders.
+I'm a data professional passionate about extracting value from data. With expertise in statistical analysis, machine learning, and data visualization, I transform complex datasets into strategic insights that drive decision-making.
 
-## 🚀 What I'm Working On
+- 🔭 Currently working on advanced predictive analytics models
+- 🌱 Exploring deep learning applications in time series forecasting
+- 👯 Looking to collaborate on innovative data science projects
+- 💬 Ask me about data analysis, visualization techniques, or statistical modeling
+- ⚡ Fun fact: I find more patterns in data than in my daily life!
 
-- 📊 Developing advanced statistical models for predictive analytics
-- 🔍 Researching optimization techniques for large-scale data processing
-- 📈 Creating interactive dashboards that transform raw data into business insights
-- 🤝 Open to collaborating on data science and visualization projects
-
-## ⚡ Technical Skills
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
-        <br>SQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="65" height="65" />
-        <br>Tableau
-      </td>
-      <td align="center" width="96">
-        <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" alt="Power BI" width="65" height="65" />
-        <br>Power BI
-      </td>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="R" width="65" height="65" />
-        <br>R
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="65" height="65" />
-        <br>Pandas
-      </td>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="65" height="65" />
-        <br>NumPy
-      </td>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65" />
-        <br>Scikit-learn
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65" />
-        <br>TensorFlow
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="65" height="65" />
-        <br>Git
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📊 Data Analysis Process
+## 📊 GitHub Stats & Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/data-cleaning.png" width="50" height="50"/>
-        <br>Data Cleaning
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/process.png" width="50" height="50"/>
-        <br>Processing
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/analyze.png" width="50" height="50"/>
-        <br>Analysis
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/combo-chart.png" width="50" height="50"/>
-        <br>Visualization
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/insights.png" width="50" height="50"/>
-        <br>Insights
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📈 Recent Projects
-
-<img align="right" alt="Data Visualization" src="https://media.tenor.com/H2nPN3kDPBUAAAAi/sung-jin-woo.gif" width="180" height="180"/>
-
-### Customer Segmentation Analysis
-Utilized unsupervised learning algorithms to identify key customer segments, resulting in a 24% increase in targeted marketing conversion rates.
-`#KMeans` `#PCA` `#Python` `#Pandas` `#Scikit-learn`
-
-### Predictive Analytics Dashboard
-Developed a comprehensive business intelligence dashboard with real-time sales forecasting capabilities, improving inventory management efficiency by 18%.
-`#PowerBI` `#TimeSeriesAnalysis` `#SQL` `#DataModeling`
-
-### Natural Language Processing for Customer Feedback
-Created a sentiment analysis tool that processes customer reviews, extracting actionable insights that led to a 15% improvement in customer satisfaction scores.
-`#NLP` `#Python` `#NLTK` `#MachineLearning`
-
-### Supply Chain Optimization
-Designed and implemented a data-driven optimization model that reduced logistics costs by 12% while maintaining service levels.
-`#OperationsResearch` `#Python` `#Optimization` `#DataVisualization`
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3More1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3More1&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3More1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3More1&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3More1&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3More1&layout=compact&theme=tokyonight&hide_border=true" height="200" width="350"/>
 </div>
 
-## 🎓 Certifications & Education
+## 🛠️ Technical Skills & Tools
 
-- **Microsoft Certified: Data Analyst Associate** - Microsoft
-- **TensorFlow Developer Certificate** - Google
-- **Advanced SQL for Data Scientists** - DataCamp
-- **Machine Learning Specialization** - Stanford Online
-- **Big Data Analytics** - IBM
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R"/>
+      <br>R
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
+      <br>TensorFlow
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
+      <br>Jupyter
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS"/>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau"/>
+      <br>Tableau
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
 
-## 💼 Professional Experience
+<details>
+  <summary><b>📋 More About My Technical Skills</b></summary>
+  <br>
+  <ul>
+    <li><b>Programming:</b> Python, R, SQL, JavaScript (basic)</li>
+    <li><b>Data Analysis:</b> Pandas, NumPy, SciPy, R Studio</li>
+    <li><b>Machine Learning:</b> Scikit-learn, TensorFlow, PyTorch, NLTK</li>
+    <li><b>Data Visualization:</b> Tableau, Power BI, Matplotlib, Seaborn, Plotly</li>
+    <li><b>Big Data:</b> Spark, Hadoop (basics)</li>
+    <li><b>Databases:</b> MySQL, PostgreSQL, MongoDB, SQLite</li>
+    <li><b>DevOps:</b> Git, Docker, AWS</li>
+    <li><b>Data Engineering:</b> ETL Pipelines, Data Warehousing</li>
+  </ul>
+</details>
 
-- **Senior Data Scientist** at *TechCorp* (2023-Present)
-  - Led team developing predictive analytics solutions for financial services
-  - Implemented machine learning models that increased forecast accuracy by 35%
+## 🔥 Featured Projects
 
-- **Data Analyst** at *DataDriven Inc.* (2021-2023)
-  - Developed automated data pipelines that reduced reporting time by 60%
-  - Created business intelligence dashboards used by C-level executives
-
-## 📬 Get in Touch
-
-I'm always interested in new projects and collaborations in the data science space. Feel free to connect with me on LinkedIn or send me an email to discuss opportunities.
-
-<div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/3More1" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,100:20BDFF&height=120&section=footer" />
-</div>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Customer Segmentation Analysis</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://www.kdnuggets.com/wp-content/uploads/customer-segmentation-dashboard.jpg" width="400" alt="Customer Segmentation"/>
+        </a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="Code"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20Demo-green?style=for-the-badge&logo=github" alt="Demo"/>
+          </a>
+        </p>
+        <p><strong>Python, Scikit-learn, K-means, Pandas</strong> - Used clustering techniques to identify key customer segments, improving marketing ROI by 24%.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Sales Forecasting Model</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://www.kdnuggets.com/wp-content/uploads/sales-forecasting.jpg" width="400" alt="Sales Forecasting"/>
+        </a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt
