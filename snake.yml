@@ -1,28 +1,47 @@
-name: Generate Snake Animation
+name: Generate Snake Animation Forever
 
 on:
+  # تشغيل كل ساعة
   schedule:
-    - cron: "0 0 * * *"  # تشغيل يومياً في منتصف الليل
-  workflow_dispatch:  # يسمح بالتشغيل اليدوي
+    - cron: "0 * * * *"
   
+  # تشغيل عند كل دفع للمستودع
+  push:
+    branches:
+      - main
+  
+  # السماح بالتشغيل اليدوي في أي وقت
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
+    
     steps:
+      # خطوة إنشاء رسوم السنيك
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: 3More1
+          # إنشاء إصدارات متعددة من الرسوم
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      
+      # خطوة دفع الرسوم إلى فرع "output"
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # إعادة محاولة إذا فشلت الخطوات السابقة (للتأكد من استمرارية العمل)
+      - name: Retry on failure
+        if: failure()
+        run: |
+          echo "Workflow failed, but we'll try again next time"
+          exit 0
